@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Risk Analyzer",
+  "description": "Simple student risk alert system to upload student CSV records and instantly identify high, medium, and low risk students with action plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
